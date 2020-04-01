@@ -1,1 +1,1 @@
-# tensorflow-in-practice
+# Tensorflow in Practice Specialization
