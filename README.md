@@ -3,3 +3,4 @@
 ### Certificates
 
 1. [Introduction to Tensorflow for Artificial Intelligence, Machine Learning and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7Q9KCW6PKVEG)
+2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/PTUSBPGHX72S)
