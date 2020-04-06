@@ -39,5 +39,5 @@
 8. Which is the correct line of code for adding Dropout of 20% of neurons using TensorFlow
     - [ ] tf.keras.layers.Dropout(20)
     - [ ] tf.keras.layers.DropoutNeurons(20)
-    - [x] f.keras.layers.Dropout(0.2)
+    - [x] tf.keras.layers.Dropout(0.2)
     - [ ] tf.keras.layers.DropoutNeurons(0.2)
